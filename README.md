@@ -1,6 +1,6 @@
 <h1>
   Olá, eu sou Arthur!
-  <img src="https://tenor.com/r2dLhinjER5.gif" width="60">
+  愛
 </h1>
 
 ## Sobre mim
