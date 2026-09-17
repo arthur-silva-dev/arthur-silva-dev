@@ -34,10 +34,6 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurgui.silva15)](mailto:arthurgui.silva15)
+[![Gmail Badge](https://img.shields.io/badge/-arthurgui.silva15@gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurgui.silva15)](mailto:arthurgui.silva15)
