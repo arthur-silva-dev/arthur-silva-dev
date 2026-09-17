@@ -1,6 +1,6 @@
 <h1>
   Olá, eu sou Arthur!
-  <img src="[https://tenor.com/pt-BR/view/hand-waving-hand-emoji-gif-14999877618442267107](https://tenor.com/pt-BR/view/hand-waving-hand-emoji-gif-14999877618442267107)" width="40">
+  <img src="[https://tenor.com/pt-BR/view/hand-waving-hand-emoji-gif-14999877618442267107](https://tenor.com/pt-BR/view/hand-waving-hand-emoji-gif-14999877618442267107)" width="10">
 </h1>
 
 ## Sobre mim
