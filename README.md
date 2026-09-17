@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
--  🔎 Explorando novas tecnologias e desenvolvendo soluções de software.
+-  🔎 Explorando novas tecnologias e desenvolvendo novas soluções de software
 -  🧠 Estudando Desenvolvimento de sistemas na ETEC Jardim Ângela.
 -  💻 Aprendendo mais sobre JavaScript ┃ Java ┃ APIs ┃ Hosts ┃ Protocolos de rede IP.
 
