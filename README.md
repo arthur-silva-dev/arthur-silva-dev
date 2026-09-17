@@ -6,6 +6,10 @@
 - 🌱 Aprendendo mais sobre .
 
 ## Minhas Skills
+**Sistemas Operacionais**
+
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=0078D6)
 
 **Linguagens**
 
