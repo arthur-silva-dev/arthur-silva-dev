@@ -1,6 +1,6 @@
 <h1>
   Olá, eu sou Arthur!
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxuem4wMmE5MTBxb2x0cjB2eDg0aTgzd2wyZnJ6ZXR1bDl0cG8wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q2TwDlAu1MqwDITyd4/giphy.gif" width="40">
+  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxuem4wMmE5MTBxb2x0cjB2eDg0aTgzd2wyZnJ6ZXR1bDl0cG8wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q2TwDlAu1MqwDITyd4/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGg0N2RqeDV0Y3h0NHM1eDNtYTRpOTN4eHEzZmNzcmN3dGJlZTlpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Fqek5SdRxZ0W1jZK9/giphy.gif)" width="40">
 </h1>
 
 ## Sobre mim
