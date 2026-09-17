@@ -14,6 +14,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
 
 **Banco de dados**
+
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 
 **Desenvolvimento Web**
