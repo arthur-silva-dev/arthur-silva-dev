@@ -28,6 +28,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![Laragon](https://img.shields.io/badge/-Laragon-333333?style=flat&logo=laragon&logoColor=0E83CD)
 
 <br/>
 
