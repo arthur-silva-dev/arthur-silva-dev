@@ -29,6 +29,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
 ![Laragon](https://img.shields.io/badge/-Laragon-333333?style=flat&logo=laragon&logoColor=0E83CD)
+![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-333333?style=flat&logo=windowsterminal&logoColor=FFFFFF)
 
 <br/>
 
