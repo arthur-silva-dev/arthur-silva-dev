@@ -1,3 +1,7 @@
+<h1>
+  Olá, eu sou Arthur!
+  <img src="URL_DO_GIF" width="40">
+</h1>
 
 ## Sobre mim
 
