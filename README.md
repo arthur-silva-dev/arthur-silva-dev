@@ -36,4 +36,4 @@
 
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-arthurgui.silva15@gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurgui.silva15)](mailto:arthurgui.silva15)
+[![Gmail Badge](https://img.shields.io/badge/-arthurgui.silva15@gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurgui.silva15@gmail)](mailto:arthurgui.silva15@gmail)
