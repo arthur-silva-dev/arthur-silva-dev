@@ -1,6 +1,6 @@
 <h1>
   Olá, eu sou Arthur!
-  愛
+  <img src="[https://exemplo.com/meu-gif.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2s5OGpkdGR6eWRpcXJyYjJkZG1tcmZpbWVwYjBtM2djOW9qanN2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/slVWEctHZKvWU/giphy.gif)" width="50">
 </h1>
 
 ## Sobre mim
